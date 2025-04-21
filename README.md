@@ -1,6 +1,7 @@
 # TFT Epilepsy Helper (skip chibi animations)
 
-A simple AutoHotkey script designed to help players avoid the disorienting finisher animations in **Teamfight Tactics**, making the game more accessible to individuals with photosensitive epilepsy.
+A simple AutoHotkey script designed to help players avoid the disorienting finisher animations in **Teamfight Tactics**, making the game more accessible to individuals with photosensitive epilepsy.  
+When running this script, pressing `ALT-F4` mute the game, minimize it, and then close it after a short delay - sparing you the animation.  
 
 ## ⚠️ Disclaimer
 
@@ -24,12 +25,12 @@ Therefore, I **cannot guarantee** that your account will not be flagged or banne
    - Or clone/download the `.ahk` file if you'd prefer to run or compile it yourself (see below).
 
 2. **Run the script**:
-   - If using the `.exe`, just double-click it — it will quietly run in the system tray (there is no popup or window - this is standard behaviour for AutoHotkey scripts.
+   - If using the `.exe`, just double-click it. It will quietly run in the system tray (there is no popup or window - this is standard behaviour for AutoHotkey scripts.
    - If using the `.ahk`, you'll need AutoHotkey installed. See [Compiling Instructions](#-compiling-the-script-yourself).
 
 3. **When in a TFT match and a finisher animation starts**:
    - Press `ALT+F4`.
-   - This script will mute the game, minimize it, and then close it after a short delay — sparing you the animation.
+   - This script will mute the game, minimize it, and then close it after a short delay - sparing you the animation.
    - **Note**: While running, this will override the default ALT+F4 behavior in League of Legends and TFT.
    - **Note**: Muting only the game currently doesn't work, so it's currently just muting/unmuting the whole system.
   
