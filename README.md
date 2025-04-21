@@ -42,6 +42,3 @@ Prefer to compile it manually instead of downloading the `.exe`?
 1. Install AutoHotkey from [https://www.autohotkey.com/](https://www.autohotkey.com/).
 2. Right-click the `.ahk` file and choose **Compile Script**.
 3. This creates a standalone `.exe` you can run directly.
-
-For detailed instructions, see this [official AHK guide on compiling](https://www.autohotkey.com/docs/v2/compiler.htm).
-
