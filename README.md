@@ -13,7 +13,7 @@ This is a very simple script that:
 - ❌ Does **not** inject code or modify game files  
 - ✅ Only interacts with standard desktop-level window and audio controls  
 
-The only reason I can foresee this being bannable is that **finishers are a monetized cosmetic**, and Riot Games may choose to prioritize revenue over accessibility.
+The only reason I can foresee this being bannable is that **finishers are a monetized cosmetic**, and Riot Games may choose to prioritize revenue over accessibility.  
 Therefore, I **cannot guarantee** that your account will not be flagged or banned for using it.  
 **Use at your own risk.** I take no responsibility in the event of account penalties.
 
