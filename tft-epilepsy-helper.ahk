@@ -4,7 +4,7 @@
     SoundSet, 0, , , League of Legends.exe
     
     WinMinimize, ahk_exe League of Legends.exe
-    Sleep, 7000
+    Sleep, 8000
     
     ; Restore original volume if needed
     SoundSet, %originalVolume%, , , League of Legends.exe
