@@ -1,6 +1,6 @@
 # TFT Epilepsy Helper
 
-A simple AutoHotkey script designed to help players avoid the disorienting "finisher" animations in **Teamfight Tactics**, making the game more accessible to individuals with photosensitive epilepsy.
+A simple AutoHotkey script designed to help players avoid the disorienting 'finisher' animations in **Teamfight Tactics**, making the game more accessible to individuals with photosensitive epilepsy.
 
 ## ⚠️ Disclaimer
 
