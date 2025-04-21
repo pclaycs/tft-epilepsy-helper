@@ -6,7 +6,7 @@ When running this script, pressing `ALT-F4` will mute the game, minimize it, and
 
 ## ⚠️ Disclaimer
 
-This is a very simple script that:
+This script:
 
 - ❌ Does **not** provide any competitive or gameplay advantage  
 - ❌ Does **not** send input (keypresses or mouse events) to the League of Legends client  
